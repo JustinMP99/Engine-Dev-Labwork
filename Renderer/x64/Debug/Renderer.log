@@ -1,0 +1,41 @@
+﻿  compilation object save succeeded; see C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\ParticlePS.cso
+  compilation object save succeeded; see C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\ps_cube.cso
+  compilation object save succeeded; see C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\PS_Grid.cso
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\shaders\vs_cube.hlsl(152,18-40): warning X3206: 'mul': implicit truncation of vector type
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\shaders\vs_cube.hlsl(143,10-22): warning X3578: Output value 'main' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\vs_cube.cso
+  compilation object save succeeded; see C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\VS_Grid.cso
+  blob.cpp
+  d3d11_renderer_impl.cpp
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(103,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(104,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(318,40): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(443,51): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(526,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(538,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(553,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(1035,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(1044,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(1059,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(1075,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(1087,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(1097,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(1599,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(1606,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  debug_renderer.cpp
+  Frustum_Culling.cpp
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\Frustum_Culling.cpp(55,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\Frustum_Culling.cpp(56,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\main.cpp(223,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\main.cpp(224,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  math_types.cpp
+  pools.cpp
+  renderer.cpp
+  view.cpp
+  XTime.cpp
+  Generating Code...
+C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\d3d11_renderer_impl.cpp(875,1): warning C4715: 'end::renderer_t::impl_t::CreateAxisVertexBuffer': not all control paths return a value
+  Renderer.vcxproj -> C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\x64\Debug\Renderer.exe

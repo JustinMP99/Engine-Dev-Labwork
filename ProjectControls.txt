@@ -1,0 +1,23 @@
+W - forward
+A - Left
+S - Backward
+D - Right
+
+Q - Down
+E - Up
+
+Numpad 8 - Look up
+Numpad 2 - Look Down 
+Numpad 4 - Look Left
+Numpad 6 - look Right 
+
+Arrow key up - move axis forward
+Arrow key down - move axis backward
+Arrow key left - move axis left
+Arrow key right - move axis right
+
+O - Move axis down
+P - Move axis up
+
+K - rotate axis left
+L - rotate axis right

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\x64\Debug\Renderer.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\ParticlePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\ps_cube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\PS_Grid.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\vs_cube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Justin\Desktop\Projects\Graphics\Engine-Dev-Labwork\Renderer\VS_Grid.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
